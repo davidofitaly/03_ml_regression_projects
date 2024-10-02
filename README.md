@@ -16,7 +16,28 @@ This project uses the California Housing dataset to predict house prices based o
 
 Clone the repository to your local machine:
 
-```bash
 git clone https://github.com/davidofitaly/03_linear_regression_projects.git
 
+
+## Install
+
+pip install -r requirements.txt
+
+
+## Usage
+
+cd 03_linear_regression_projects
+
+
+## Project Descriptions
+
+### 01 Make Regression Project
+This notebook demonstrates how to create a synthetic dataset using Scikit-Learn's `make_regression` function and apply linear regression to model the data.
+
+### 02 California Housing Project
+This notebook applies linear regression to the California Housing dataset. It includes exploratory data analysis, model fitting, and evaluation of the regression model's performance.
+
+
+## Contributors
+[Dawid Włoch](https://github.com/davidofitaly)
 
